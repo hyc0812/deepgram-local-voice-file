@@ -1,0 +1,1 @@
+{"version":3,"file":"secondsToTimestamp.js","sourceRoot":"","sources":["../../src/helpers/secondsToTimestamp.ts"],"names":[],"mappings":";;;AAAA,SAAgB,kBAAkB,CAAC,OAAe;IAChD,OAAO,IAAI,IAAI,CAAC,OAAO,GAAG,IAAI,CAAC,CAAC,WAAW,EAAE,CAAC,MAAM,CAAC,EAAE,EAAE,EAAE,CAAC,CAAC;AAC/D,CAAC;AAFD,gDAEC"}

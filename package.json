@@ -1,0 +1,17 @@
+{
+  "name": "deepgram-local-voice-file",
+  "version": "1.0.0",
+  "description": "This is the application that can convert voice file to transcript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deepgram"
+  ],
+  "author": "Yongchang",
+  "license": "ISC",
+  "dependencies": {
+    "@deepgram/sdk": "^1.2.2"
+  }
+}
