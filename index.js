@@ -2,7 +2,7 @@ const { Deepgram } = require('@deepgram/sdk');
 const fs = require('fs');
 
 // The API key you created in step 1
-const deepgramApiKey = '6e447b1c3a339e12f4567282748fa4fada9cb65d';
+const deepgramApiKey = '6e447b1c3a339e12f4567282748fa******cb65d';
 
 // Replace with your file path and audio mimetype
 const pathToFile = 'Provide_the_absolute_file_path_here';
