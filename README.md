@@ -1,4 +1,4 @@
-# Play with a Speech-to-text API using Node.js
+# Play with a Speech-to-Text API using Node.js
 
 Let's login to your [Deepgram](https://console.deepgram.com/signup) , navigate to your **Dashboard** , and choose **Get a Transcript via API or SDK**:
 
